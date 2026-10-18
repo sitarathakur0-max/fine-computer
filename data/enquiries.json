@@ -1,0 +1,16 @@
+[
+  {
+    "id": "enq_1792242247216_9fa7c",
+    "referenceNumber": "FC-20261017-5927",
+    "customerName": "Tariq Mehmood",
+    "contactNumber": "0302-1234567",
+    "deviceType": "Desktop PC",
+    "brandModel": "Dell OptiPlex 7050",
+    "problemCategory": "Power & Boot Issues",
+    "description": "Computer does not turn on. Power button blinks amber twice and stops.",
+    "preferredContact": "Phone Call",
+    "status": "Logged & Ready for Physical Assessment",
+    "submittedAt": "2026-10-17T13:04:07.216Z",
+    "notes": "Please coordinate handover or visit C Block, Burewala for in-person hardware diagnosis."
+  }
+]

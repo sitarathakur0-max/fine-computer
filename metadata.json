@@ -1,0 +1,6 @@
+{
+  "name": "Fine Computer - Technical Support & Repair",
+  "description": "Professional computer repair and technical support services in C Block, Burewala, Punjab, Pakistan. Device diagnostics, hardware assessment, and technical assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
